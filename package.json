@@ -1,0 +1,28 @@
+{
+  "name": "clases-programacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node platzi/asincronismo/callbacks/index.js",
+    "callback:challenge": "node platzi/asincronismo/callbacks/challenge.js",
+    "promise": "node platzi/asincronismo/promises/index.js",
+    "promise:challenge": "node platzi/asincronismo/promises/challenge.js",
+    "async" : "node platzi/asincronismo/async/index.js",
+    "async:challenge" : "node platzi/asincronismo/async/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriansotoh/cursos-programacion.git"
+  },
+  "author": "Adrian Soto Hidalgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriansotoh/cursos-programacion/issues"
+  },
+  "homepage": "https://github.com/adriansotoh/cursos-programacion#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
